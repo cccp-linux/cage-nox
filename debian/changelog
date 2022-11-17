@@ -1,6 +1,8 @@
 cage (0.1.4-5) UNRELEASED; urgency=medium
 
   * Set field Upstream-Name in debian/copyright.
+  * Remove obsolete field Name from debian/upstream/metadata (already present in
+    machine-readable debian/copyright).
 
  -- Debian Janitor <janitor@jelmer.uk>  Thu, 17 Nov 2022 01:21:29 -0000
 
