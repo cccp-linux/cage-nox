@@ -1,5 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Source: https://github.com/Hjdskes/cage
+Upstream-Name: cage
 
 Files: *
 Copyright: © 2018-2020 Jente Hidskes
