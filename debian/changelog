@@ -1,3 +1,9 @@
+cage (0.2.0-2) unstable; urgency=medium
+
+  * Reupload to unstable
+
+ -- Birger Schacht <birger@debian.org>  Thu, 26 Dec 2024 15:07:29 +0100
+
 cage (0.2.0-1) experimental; urgency=medium
 
   * New upstream release (Closes: #1081391)
