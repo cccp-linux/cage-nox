@@ -1,3 +1,10 @@
+cage (0.2.0+20250816-2) unstable; urgency=medium
+
+  * Reupload to unstable
+  * Add a debian/gbp.conf file
+
+ -- Birger Schacht <birger@debian.org>  Tue, 26 Aug 2025 16:15:30 +0200
+
 cage (0.2.0+20250816-1) experimental; urgency=medium
 
   * Upload unreleased version.
