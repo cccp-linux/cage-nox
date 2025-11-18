@@ -24,6 +24,10 @@ Architecture: any
 Depends:
  ${shlibs:Depends},
  ${misc:Depends},
+Conflicts:
+ cage,
+Replaces:
+ cage,
 Description: Kiosk compositor for Wayland
  Cage is a kiosk compositor for Wayland. A kiosk is a window manager (in the
  X11 world) or compositor (in the Wayland world) that is designed for a user
