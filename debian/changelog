@@ -1,3 +1,10 @@
+cage (1:0.2.0-2.1) resolute; urgency=medium
+
+  * d/control: fix dependency
+  * d/control: add Conflicts/Replaces fields
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 27 Nov 2025 23:43:25 -0500
+
 cage (1:0.2.0-2) resolute; urgency=medium
 
   * cage => cage-nox
