@@ -24,6 +24,7 @@ Architecture: any
 Depends:
  ${shlibs:Depends},
  ${misc:Depends},
+ libpam-systemd,
 Conflicts:
  cage,
 Replaces:
