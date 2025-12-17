@@ -25,6 +25,7 @@ Depends:
  ${shlibs:Depends},
  ${misc:Depends},
  libpam-systemd,
+ seatd,
 Conflicts:
  cage,
 Replaces:
