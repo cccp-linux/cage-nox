@@ -1,3 +1,10 @@
+cage (1:0.2.0-2.3) resolute; urgency=medium
+
+  * Cage needs seatd for vt switching
+  * d/control: sort build deps
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 16 Dec 2025 21:31:46 -0500
+
 cage (1:0.2.0-2.2) resolute; urgency=medium
 
   * Cage requires XDG_RUNTIME_DIR provided by pam-systemd
