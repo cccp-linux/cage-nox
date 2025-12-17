@@ -1,3 +1,23 @@
+cage (0.2.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Birger Schacht <birger@debian.org>  Sun, 05 Oct 2025 20:48:46 +0200
+
+cage (0.2.0+20250816-2) unstable; urgency=medium
+
+  * Reupload to unstable
+  * Add a debian/gbp.conf file
+
+ -- Birger Schacht <birger@debian.org>  Tue, 26 Aug 2025 16:15:30 +0200
+
+cage (0.2.0+20250816-1) experimental; urgency=medium
+
+  * Upload unreleased version.
+  * debian/control: Bump wlroots dependency to 0.19 (Closes: #1111149)
+
+ -- Birger Schacht <birger@debian.org>  Sat, 16 Aug 2025 14:59:13 +0200
+
 cage (1:0.2.0-2.3) resolute; urgency=medium
 
   * Cage needs seatd for vt switching

@@ -7,7 +7,7 @@ Build-Depends:
  debhelper-compat (= 13),
  libpixman-1-dev,
  libwayland-server0,
- libwlroots-nox-0.18-dev (>= 0.18.0),
+ libwlroots-nox-0.19-dev (>= 0.19.0),
  libxkbcommon-dev,
  meson,
  pkgconf,
