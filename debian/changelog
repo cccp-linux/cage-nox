@@ -1,8 +1,9 @@
-cage (1:0.2.1-1) UNRELEASED; urgency=medium
+cage (1:0.2.1-1) resolute; urgency=medium
 
-  * 
+  * Reset epoch to 1:
+  * Merge branch 'ubuntu' into cccp
 
- -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 17 Dec 2025 15:53:42 -0500
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 17 Dec 2025 15:54:14 -0500
 
 cage (0.2.1-1) unstable; urgency=medium
 
